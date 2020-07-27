@@ -1,9 +1,12 @@
 # Compiled class file
 *.class
-
+# is my project lib
+!/lib
 # Log file
 *.log
-
+#idea
+/.idea
+/out
 # BlueJ files
 *.ctxt
 
